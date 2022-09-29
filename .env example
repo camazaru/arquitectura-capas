@@ -1,0 +1,5 @@
+#api
+TIEMPO_EXPIRACION=600000
+API_SECRET='coderhouse'
+#Database
+MONGODB_ATLAS=mongodb+srv://cmcarlos:cmcarlos@mibase.ikdrbg0.mongodb.net/?retryWrites=true&w=majority
